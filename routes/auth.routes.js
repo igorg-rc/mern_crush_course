@@ -28,8 +28,6 @@ router.post('/register',
     }
 
     const { email, password } = req.body
-    // const email = req.body.email
-    // const password = req.body.password
     
     const candidate = await User.findOne({ email })
 
