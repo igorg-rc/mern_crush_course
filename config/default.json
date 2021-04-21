@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "MERN one more time",
+  "mongoURI": "mongodb+srv://igor-1987:7KN2Cwxcc0Rtj7Y4@cluster0.mgaax.mongodb.net/mern_crush_course?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
